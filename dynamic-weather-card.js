@@ -123,7 +123,7 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   }
 
   .temperature {
-    font-size: 64px;
+    font-size: 90px;
     font-weight: 100;
     line-height: 1;
     margin: 0;
@@ -166,7 +166,7 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   }
 
   .feels-like {
-    font-size: 16px;
+    font-size: 22px;
     opacity: 0.85;
     margin-top: 8px;
   }
@@ -189,7 +189,7 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 6px 12px;
-    font-size: 13px;
+    font-size: 18px;
     opacity: 0.9;
   }
 
@@ -275,7 +275,7 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   }
 
   .forecast-time {
-    font-size: 12px;
+    font-size: 16px;
     opacity: 0.7;
     font-weight: 400;
   }
@@ -285,13 +285,13 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   }
 
   .forecast-icon svg {
-    width: 32px;
-    height: 32px;
+    width: 44px;
+    height: 44px;
     display: block;
   }
 
   .forecast-temp {
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 500;
     opacity: 0.9;
   }
@@ -299,7 +299,7 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   .clock {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 48px;
+    font-size: 68px;
     font-weight: 200;
     line-height: 1;
     color: white;
@@ -711,8 +711,8 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
 
     .info-icon {
       font-size: 16px;
-      width: 20px;
-      height: 20px;
+      width: 28px;
+      height: 28px;
       display: inline-flex;
       align-items: center;
       justify-content: center;
@@ -816,7 +816,7 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   }
 
   .forecast-time {
-    font-size: 12px;
+    font-size: 16px;
     opacity: 0.7;
     font-weight: 400;
   }
@@ -826,13 +826,13 @@ Please use the static 'html' tag function. See https://lit.dev/docs/templates/ex
   }
 
   .forecast-icon svg {
-    width: 32px;
-    height: 32px;
+    width: 44px;
+    height: 44px;
     display: block;
   }
 
   .forecast-temp {
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 500;
     opacity: 0.9;
   }
