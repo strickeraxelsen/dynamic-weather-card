@@ -159,4 +159,4 @@ export interface Translation {
   demo: DemoTranslations;
 }
 
-export type SupportedLanguage = 'en' | 'ru' | 'de' | 'nl' | 'fr' | 'es' | 'it' | 'sk' | 'hu';
+export type SupportedLanguage = 'en' | 'ru' | 'de' | 'nl' | 'fr' | 'es' | 'it' | 'sk' | 'hu';| 'da';
