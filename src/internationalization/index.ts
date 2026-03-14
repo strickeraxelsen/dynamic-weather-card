@@ -1,3 +1,4 @@
+// Danish translation added
 import ru from './locales/ru/translation';
 import de from './locales/de/translation';
 import nl from './locales/nl/translation';
