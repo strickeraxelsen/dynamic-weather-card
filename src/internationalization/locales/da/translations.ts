@@ -152,7 +152,7 @@ const translation: Translation = {
       'spanish': 'Spansk',
       'italian': 'Italiensk',
       'slovak': 'Slovakisk',
-      'hungarian': 'Ungarsk'
+      'hungarian': 'Ungarsk',
       'danish': 'Dansk'
     }
   }
