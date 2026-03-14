@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [v0,52da] - 2026-03-14
+
+## What's Changed
+
+### Other Changes
+- Update index.ts (5e98e75)
+- Rename translations.ts to translation.ts (1c020fd)
+
+**Full Changelog**: https://github.com/strickeraxelsen/dynamic-weather-card/compare/v0,52da...v0,52da
+
+
 ## [v0.3.3] - 2026-01-13
 
 ## What's Changed
